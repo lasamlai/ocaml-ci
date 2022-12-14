@@ -1,3 +1,3 @@
 pin-depends: [
-  ["ansi.dev" "git+https://github.com/ocurrent/ansi#6efb1a97495319e6ec1a46a1e7e31f8932f3918b"] # morecolors
+  ["ansi.dev" "git+https://github.com/ocurrent/ansi#56352e623fcc553ca798b1bd009a1c5e61393d53"] # fixes+italic+underline
 ]
